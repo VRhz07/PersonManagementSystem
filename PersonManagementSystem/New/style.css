@@ -1,0 +1,96 @@
+.navbar{
+    background: #4e5f70;
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+}
+.col{
+    
+    justify-content: center;
+}
+
+/*----------Log in page------------*/
+
+#text{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 95%;
+}
+
+#button{
+
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+#box{
+    border-radius: 5%;
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    margin-top: 20%;
+
+    background-color: rgba(0, 0, 0, 0.7); /* Background color with transparency */
+    backdrop-filter: blur(10px); /* Blur effect */
+    -webkit-backdrop-filter: blur(10px); /* Blur effect for Safari */
+    border: 1px solid rgba(255, 255, 255, 0.2); 
+}
+
+.Login_div{
+    font-size: 20px;margin: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#body{
+    background-image: url('crud bg.png'); /* Replace 'background_image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    margin: 0; /* Reset default body margin */
+    padding: 0; /* Reset default body padding */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+
+
+/*----------Index Body------------*/
+
+#bgbody {
+    background-image: url('pxfuelw.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This will make the background stay fixed during scrolling */
+    background-size: cover; /* Resize the background image to cover the entire body */
+   
+}
+
+
+h3{
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+a{
+   
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
